@@ -1,0 +1,10 @@
+
+h2 {
+    background-color: darkred; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-family: initial; color: rgb(53, 53, 53);
+}
+p {
+    font-size: 24px; font-family: monospace; color: rgb(145, 10, 37);
+}    
